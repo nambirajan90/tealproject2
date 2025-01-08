@@ -13,7 +13,7 @@ table, th, td {
   <tr>
     <th>Company</th>
     <th>Contact</th>
-    <th>Country</th>
+    <th>Country test</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
